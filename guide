@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALL 4 GAMERS</title>
+</head>
+<body>
+    <header>
+        <div class="header-logo">
+            <img src="" alt="">
+        </div>
+        <nav>
+            <a href="">Каталог</a>
+            <a href="">Послуги</a>
+            <a href="">Новини</a>
+            <a href="">Спільнота</a>
+        </nav>
+        <div class="header-socials">
+
+        </div>
+    </header>
+    <main>
+        <aside class="left-side-bar side-bar">
+
+        </aside>
+
+        <section class="main">
+            <h2>Гайди</h2>
+                <div class="guide-bar">
+
+                    <div class="guide-1">
+                        <p></p>
+                        <img src="">
+                    </div>
+
+                    <div class="guide-2">
+                        <p></p>
+                        <img src="">
+                    </div>
+
+                    <div class="guide-3">
+                        <p></p>
+                        <img src="">
+                    </div>
+
+                    <div class="guide-4">
+                        <p></p>
+                        <img src="">
+                    </div>
+
+                    <div class="guide-5">
+                        <p></p>
+                        <img src="">
+                    </div>
+
+                    <div class="guide-6">
+                        <p></p>
+                        <img src="">
+                    </div>
+                </div>
+        </section>
+
+        <aside class="right-side-bar side-bar">
+
+        </aside>
+
+    </main>
+    <footer>
+        <div class="footer-item">
+            <div class="footer-logo">
+                <img src="" alt="">
+            </div>
+        </div>
+        <div class="footer-item">
+            <h5>Магазин</h5>
+            <a href="">Акції</a>
+            <a href="">Валюта</a>
+            <a href="">ігри</a>
+            <a href="">VR</a>
+            <a href="">Game passes</a>
+            <a href="">ПК</a>
+            <a href="">Ігрові приставки</a>
+            <a href="">Аксесуари</a>
+        </div>
+        <div class="footer-item">
+            <h5>Послуги</h5>
+            <a href="">Прокачка</a>
+            <a href="">Калькульятор валюти</a>
+            <a href="">Збірка ПК</a>
+            <a href="">Ремонт</a>
+        </div>
+        <div class="footer-item">
+            <h5>Новини</h5>
+            <a href="">Ігровий світ</a>
+            <a href="">Гейм Дев</a>
+            <a href="">Світ заліза</a>
+            <a href="">Наші апдейтікі</a>
+        </div>
+        <div class="footer-item">
+            <h5>Спільнота</h5>
+            <a href="">Пдтримка</a>
+            <a href="">Тімейтінг</a>
+            <a href="">Трейди</a>
+            <a href="">FAQ</a>
+            <a href="">Форум</a>
+        </div>
+        <div class="footer-item">
+            <h5>Загальне</h5>
+            <a href="">Про нас</a>
+            <a href="">Гайди</a>
+            <a href="">Політика конфенденційності</a>
+            <a href="">Основні положення</a>
+            <a href="">Робота</a>
+        </div>
+
+        <div class="footer-item">
+            <div class="contacts"></div>
+        </div>
+        <div class="footer-item">
+            <div class="socials">
+                <img src="" alt="">
+                <img src="" alt="">
+                <img src="" alt="">
+                <img src="" alt="">
+                <img src="" alt="">
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
